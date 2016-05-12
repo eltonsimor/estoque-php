@@ -20,7 +20,7 @@ class ProdutoController extends Controller{
     }
 
     public function downloadFile(){
-      return response()->download('file:///Users/eltonmoraes/Documents/Livros/design-patterns-com-java-projeto-orientado-a-objetos-guiado-por-padroes.zip');
+      return response()->download('caminho do arquivo que será feito o download.');
     }
 
     public function mostrar($id){
