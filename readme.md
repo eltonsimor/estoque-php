@@ -1,1 +1,2 @@
-# Projeto Desenvolvido em PHP com Framework Laravel
+# Estoque - PHP Laravel
+Esse projeto foi desenvolvido somente para estudo.
